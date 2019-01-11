@@ -1,0 +1,2 @@
+Client Georgescu Mihail with ID 79650 and address Strada Patrata nr 1001 has the following orders:
+1   11-Jan-19 3:19:07 PM   14-Jan-19 3:19:07 PM   Telefon Nokia 8 Sirocco,    1   1   08-Feb-19 3:19:07 PM   200

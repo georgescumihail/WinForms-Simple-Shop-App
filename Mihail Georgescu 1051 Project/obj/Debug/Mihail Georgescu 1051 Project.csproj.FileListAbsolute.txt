@@ -1,0 +1,29 @@
+C:\Users\Mihail\Documents\Programe\Mihail Georgescu 1051 Project\Mihail Georgescu 1051 Project\bin\Debug\Mihail Georgescu 1051 Project.exe.config
+C:\Users\Mihail\Documents\Programe\Mihail Georgescu 1051 Project\Mihail Georgescu 1051 Project\bin\Debug\Mihail Georgescu 1051 Project.exe
+C:\Users\Mihail\Documents\Programe\Mihail Georgescu 1051 Project\Mihail Georgescu 1051 Project\bin\Debug\Mihail Georgescu 1051 Project.pdb
+C:\Users\Mihail\Documents\Programe\Mihail Georgescu 1051 Project\Mihail Georgescu 1051 Project\obj\Debug\Mihail Georgescu 1051 Project.csprojAssemblyReference.cache
+C:\Users\Mihail\Documents\Programe\Mihail Georgescu 1051 Project\Mihail Georgescu 1051 Project\obj\Debug\Mihail_Georgescu_1051_Project.Edit_Form.resources
+C:\Users\Mihail\Documents\Programe\Mihail Georgescu 1051 Project\Mihail Georgescu 1051 Project\obj\Debug\Mihail_Georgescu_1051_Project.Final_Form.resources
+C:\Users\Mihail\Documents\Programe\Mihail Georgescu 1051 Project\Mihail Georgescu 1051 Project\obj\Debug\Mihail_Georgescu_1051_Project.Form1.resources
+C:\Users\Mihail\Documents\Programe\Mihail Georgescu 1051 Project\Mihail Georgescu 1051 Project\obj\Debug\Mihail_Georgescu_1051_Project.Properties.Resources.resources
+C:\Users\Mihail\Documents\Programe\Mihail Georgescu 1051 Project\Mihail Georgescu 1051 Project\obj\Debug\Mihail Georgescu 1051 Project.csproj.GenerateResource.cache
+C:\Users\Mihail\Documents\Programe\Mihail Georgescu 1051 Project\Mihail Georgescu 1051 Project\obj\Debug\Mihail Georgescu 1051 Project.csproj.CoreCompileInputs.cache
+C:\Users\Mihail\Documents\Programe\Mihail Georgescu 1051 Project\Mihail Georgescu 1051 Project\obj\Debug\Mihail Georgescu 1051 Project.exe
+C:\Users\Mihail\Documents\Programe\Mihail Georgescu 1051 Project\Mihail Georgescu 1051 Project\obj\Debug\Mihail Georgescu 1051 Project.pdb
+C:\Users\Mihail\Documents\Programe\Mihail Georgescu 1051 Project\Mihail Georgescu 1051 Project\bin\Debug\ChartLibrary.dll
+C:\Users\Mihail\Documents\Programe\Mihail Georgescu 1051 Project\Mihail Georgescu 1051 Project\bin\Debug\ChartLibrary.pdb
+C:\Users\Mihail\Documents\Programe\Mihail Georgescu 1051 Project\Mihail Georgescu 1051 Project\obj\Debug\Mihail_Georgescu_1051_Project.ChartShow.resources
+C:\Users\Mihail\Documents\Programe\Mihail Georgescu 1051 Project\Mihail Georgescu 1051 Project\obj\Debug\Mihail Georgescu 1051 Project.csproj.CopyComplete
+C:\Users\Mihail\Documents\Programe\Mihail Georgescu 1051 Project11\Mihail Georgescu 1051 Project\Mihail Georgescu 1051 Project\bin\Debug\Mihail Georgescu 1051 Project.exe.config
+C:\Users\Mihail\Documents\Programe\Mihail Georgescu 1051 Project11\Mihail Georgescu 1051 Project\Mihail Georgescu 1051 Project\bin\Debug\Mihail Georgescu 1051 Project.exe
+C:\Users\Mihail\Documents\Programe\Mihail Georgescu 1051 Project11\Mihail Georgescu 1051 Project\Mihail Georgescu 1051 Project\bin\Debug\Mihail Georgescu 1051 Project.pdb
+C:\Users\Mihail\Documents\Programe\Mihail Georgescu 1051 Project11\Mihail Georgescu 1051 Project\Mihail Georgescu 1051 Project\obj\Debug\Mihail Georgescu 1051 Project.csprojAssemblyReference.cache
+C:\Users\Mihail\Documents\Programe\Mihail Georgescu 1051 Project11\Mihail Georgescu 1051 Project\Mihail Georgescu 1051 Project\obj\Debug\Mihail_Georgescu_1051_Project.ChartShow.resources
+C:\Users\Mihail\Documents\Programe\Mihail Georgescu 1051 Project11\Mihail Georgescu 1051 Project\Mihail Georgescu 1051 Project\obj\Debug\Mihail_Georgescu_1051_Project.Edit_Form.resources
+C:\Users\Mihail\Documents\Programe\Mihail Georgescu 1051 Project11\Mihail Georgescu 1051 Project\Mihail Georgescu 1051 Project\obj\Debug\Mihail_Georgescu_1051_Project.Final_Form.resources
+C:\Users\Mihail\Documents\Programe\Mihail Georgescu 1051 Project11\Mihail Georgescu 1051 Project\Mihail Georgescu 1051 Project\obj\Debug\Mihail_Georgescu_1051_Project.form1.resources
+C:\Users\Mihail\Documents\Programe\Mihail Georgescu 1051 Project11\Mihail Georgescu 1051 Project\Mihail Georgescu 1051 Project\obj\Debug\Mihail_Georgescu_1051_Project.Properties.Resources.resources
+C:\Users\Mihail\Documents\Programe\Mihail Georgescu 1051 Project11\Mihail Georgescu 1051 Project\Mihail Georgescu 1051 Project\obj\Debug\Mihail Georgescu 1051 Project.csproj.GenerateResource.cache
+C:\Users\Mihail\Documents\Programe\Mihail Georgescu 1051 Project11\Mihail Georgescu 1051 Project\Mihail Georgescu 1051 Project\obj\Debug\Mihail Georgescu 1051 Project.csproj.CoreCompileInputs.cache
+C:\Users\Mihail\Documents\Programe\Mihail Georgescu 1051 Project11\Mihail Georgescu 1051 Project\Mihail Georgescu 1051 Project\obj\Debug\Mihail Georgescu 1051 Project.exe
+C:\Users\Mihail\Documents\Programe\Mihail Georgescu 1051 Project11\Mihail Georgescu 1051 Project\Mihail Georgescu 1051 Project\obj\Debug\Mihail Georgescu 1051 Project.pdb
